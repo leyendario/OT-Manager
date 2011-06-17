@@ -1,0 +1,9 @@
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT_Manager.OTManager.resources
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT_Manager.Properties.Resources.resources
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\bin\Debug\OT Manager.exe
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\bin\Debug\OT Manager.pdb
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT Manager.exe
+C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT Manager.pdb
