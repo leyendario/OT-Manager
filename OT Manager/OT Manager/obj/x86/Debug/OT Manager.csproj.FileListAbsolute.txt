@@ -7,3 +7,5 @@ C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager
 C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\bin\Debug\OT Manager.pdb
 C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT Manager.exe
 C:\Documents and Settings\carmen  bermudez\.ssh\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT Manager.pdb
+C:\Documents and Settings\Administrador\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT Manager.exe
+C:\Documents and Settings\Administrador\OT-Manager\OT Manager\OT Manager\obj\x86\Debug\OT Manager.pdb
